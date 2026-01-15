@@ -146,7 +146,7 @@
 <footer class="text-center">
     <div class="container">
         <p class="mb-1">
-            Dibuat oleh <a href="#">y2_</a>
+            Dibuat oleh <a href="#">y0u_2</a>
         </p>
         <small>&copy; 2026 Mahasiswa FILKOM UNIDA</small>
     </div>
